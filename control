@@ -1,0 +1,9 @@
+Package: com.iforgottonamethis.nomoreseparators
+Name: NoMoreSeparators
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak to remove the table view separators
+Maintainer: Umar
+Author: Umar
+Section: Tweaks

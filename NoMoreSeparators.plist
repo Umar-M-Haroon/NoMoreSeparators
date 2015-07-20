@@ -1,0 +1,12 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.UIKit",
+			"com.tapbots.tweetbot3",
+			"com.viber", 
+			"com.apple.MobileAddressBook",
+			"ph.telegra.Telegraph",
+			"com.yourcompany.PPClient"
+		);
+	};
+}
